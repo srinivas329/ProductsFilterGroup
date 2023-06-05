@@ -1,0 +1,43 @@
+.filters-group-container {
+  margin-top: 16px;
+}
+
+@media screen and (min-width: 768px) {
+  .filters-group-container {
+    width: 30%;
+    max-width: 350px;
+    margin-top: 48px;
+    flex-shrink: 0;
+  }
+}
+.stars-image {
+  width: 100px;
+  margin-right: 8px;
+}
+.category-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  margin: 0px;
+}
+
+.list-item1 {
+  list-style-type: none;
+  margin: 15px;
+  margin-left: 0px;
+  display: flex;
+  height: 28px;
+  align-items: center;
+}
+.categories-elements {
+  margin: 0px;
+  padding: 0px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}

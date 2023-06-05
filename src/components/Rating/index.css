@@ -1,0 +1,9 @@
+.stars-image {
+  width: 100px;
+  margin-right: 8px;
+}
+.start-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
